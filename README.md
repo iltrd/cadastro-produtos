@@ -19,7 +19,7 @@ Aplicação web integrada com banco de dados
 
 ## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1`: Cadastro de produto
-- `Funcionalidade 1a`: Alteração do item cadastrado
-- `Funcionalidade 2`: Exclusão do produto
+- `Funcionalidade 1` `Cadastro de item`: Para realizar o cadastro de um item no estoque, precisamos informar nome, descrição, preço, quantidade e clicar no botão "salvar".
+- `Funcionalidade 1a`: `Editar item`: Ao clicar no botão de editar, é aberto o formulario com os dados do item escolhido para fazer a alteração. Basta fazer o ajuste desejado e clicar no botão "salvar".
+- `Funcionalidade 2`: `Exclusão de item`: Para excluir o item basta clicar no botão indicado que o item será excluído do banco de dados. 
 - `Funcionalidade 3`: descrição da funcionalidade 3
