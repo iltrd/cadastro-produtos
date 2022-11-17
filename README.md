@@ -13,6 +13,7 @@ Aplicação web integrada com banco de dados
 - `HTML`
 - `CSS` Utilizando bootstrap
 - `JavaScript` Utilizado para fazer a verificação no navegador
+- `Postgres`
 
 
 
